@@ -3,7 +3,7 @@
     <td align="center">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C9A961&random=false&width=400&height=40&lines=Ol%C3%A1%2F+Eu+sou+Juliana!" alt="Typing SVG" />
       <br/>
-      <img src="colossus.gif" width="350" />
+      <img src="assets/colossus.gif" width="350" />
     </td>
     <td valign="top">
       <p><b>about me:</b><br>
