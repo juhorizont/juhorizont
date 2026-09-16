@@ -9,7 +9,7 @@
       <p><b>about me:</b><br>
       desenvolvedora full-stack ➧ 26y ➧ ela/dela
       <br><br>
-      Sou desenvolvedora Full-Stack cursando Gestão da Tecnologia da Informação pelo IFSC. Apaixonada por programação, desenvolvimento de software e tecnologia em geral. Desenvolvendo interfaces e backends que aguentam tempestade. Do pixel ao banco de dados: construindo e mantendo sistemas, integrando APIs governamentais e ERPs legados. Gosto de criar soluções para problemas complexos.
+      Sou desenvolvedora Full-Stack cursando Gestão da Tecnologia da Informação pelo IFSC. Apaixonada por programação, desenvolvimento de software e tecnologia em geral. Desenvolvendo interfaces e backends que aguentam tempestades. Do pixel ao banco de dados: construindo e mantendo sistemas, integrando APIs governamentais e ERPs legados. Gosto de criar soluções para problemas complexos.
       <br><br>
       Atualmente expandindo o arsenal rumo a Java e Spring Boot.
       <br><br>
